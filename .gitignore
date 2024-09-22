@@ -1,0 +1,86 @@
+# Dependências
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Diretório para arquivos gerados instrumentados pelo istanbul
+coverage
+
+# Diretório nyc test coverage
+.nyc_output
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_components
+
+# Diretório de configuração do node-waf
+.lock-wscript
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Diretórios de TypeScript v1
+typings/
+
+# Cache do TypeScript
+*.tsbuildinfo
+
+# Diretório opcional de cache npm
+.npm
+
+# Diretório opcional de cache eslint
+.eslintcache
+
+# Arquivo de histórico do REPL opcional
+.node_repl_history
+
+# Output do 'npm pack'
+*.tgz
+
+# Arquivo dotenv de ambiente
+.env
+
+# Arquivo de configuração do parcel-bundler
+.cache
+
+# Próximo.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Arquivos Gatsby
+.cache/
+public
+
+# Arquivos de configuração do vuepress
+.vuepress/dist
+
+# Diretórios de registro do Serverless
+.serverless/
+
+# Diretório do FuseBox cache
+.fusebox/
+
+# Arquivos DynamoDB Local
+.dynamodb/
+
+# Arquivo temporário do TernJS
+.tern-port
+
+# Arquivos específicos do projeto
+salasdeaula.db
